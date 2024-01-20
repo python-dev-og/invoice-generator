@@ -1,3 +1,7 @@
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
+![Pandas](https://img.shields.io/badge/pandas-%5E1.3-blue)
+![FPDF](https://img.shields.io/badge/fpdf-%5E1.7-blue)
+
 # Invoice PDF Generator
 
 ## Overview
